@@ -5,10 +5,10 @@
 I'm currently working on at Jimenez Transfert as a data analyst, i set pipeline of data and make dashboards for several 
 
 Hello, my name is Quentin, I work at Jimenez Transport as a data analyst, I mainly work on power bi, my main tasks are:
--the establishment of data flows
--setting up meetings to establish roadmaps
--the creation of dashboards
--updating dashboards
+- the establishment of data flows
+- setting up meetings to establish roadmaps
+- the creation of dashboards
+- updating dashboards
 
 At the same time, I study at the IA school as part of a work-study contract.
 
