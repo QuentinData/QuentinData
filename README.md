@@ -1,8 +1,6 @@
-# Bienvenu sur mon GitHub !
+# Welcom to my GitHub !
 
-## Je m'appel Quentin, je suis data analyst dans une société de transport. 
-
-### Hi there 👋
+## My name is Quentin, i'm 27 years old and I am currently studying for a master's degree in artificial intelligence.
 
 I'm currently working on at Jimenez Transfert as a data analyst, i set pipeline of data and make dashboards for several 
 
@@ -14,7 +12,7 @@ Hello, my name is Quentin, I work at Jimenez Transport as a data analyst, I main
 
 At the same time, I study at the IA school as part of a work-study contract.
 
-At school, I learned programming in R and Python, I had the opportunity to carry out different projects in R, a project focused on film analysis and another on the analysis of crime Los Angeles. 
+At school, I learned programming in R, SQL and Python, I had the opportunity to carry out different projects in R, a project focused on film analysis and another on the analysis of crime Los Angeles.
 
 
 <!--
