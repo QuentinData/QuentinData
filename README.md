@@ -1,4 +1,21 @@
+# Bienvenu sur mon GitHub !
+
+## Je m'appel Quentin, je suis data analyst dans une société de transport. 
+
 ### Hi there 👋
+
+I'm currently working on at Jimenez Transfert as a data analyst, i set pipeline of data and make dashboards for several 
+
+Hello, my name is Quentin, I work at Jimenez Transport as a data analyst, I mainly work on power bi, my main tasks are:
+-the establishment of data flows
+-setting up meetings to establish roadmaps
+-the creation of dashboards
+-updating dashboards
+
+At the same time, I study at the IA school as part of a work-study contract.
+
+At school, I learned programming in R and Python, I had the opportunity to carry out different projects in R, a project focused on film analysis and another on the analysis of crime Los Angeles. 
+
 
 <!--
 **QuentinData/QuentinData** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
