@@ -2,15 +2,12 @@
 
 ## My name is Quentin, i'm 27 years old and I am currently studying for a master's degree in artificial intelligence.
 
-I'm currently working on at Groupe Jimenez Transfert as a data analyst, Groupe Jimenez is a transport company based in Toulouse specializing in night traction set pipeline of data and make dashboards for several 
+I'm currently working at Groupe Jimenez Transfert as a data analyst, Groupe Jimenez is a transport company based in Toulouse specializing in night traction, I mainly work on power bi, my main tasks are :
 
-Hello, my name is Quentin, I work at Jimenez Transport as a data analyst, I mainly work on power bi, my main tasks are:
 - the establishment of data flows
 - setting up meetings to establish roadmaps
 - the creation of dashboards
 - updating dashboards
-
-
 
 At school, I learned programming in R, SQL and Python, I had the opportunity to carry out different projects in R, a project focused on film analysis and another on the analysis of crime Los Angeles.
 
