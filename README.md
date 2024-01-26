@@ -36,11 +36,11 @@ Plus d'information sur l'entreprise [ici](https://www.jimenez-groupe.com/)
 À l'école, j'apprend la programmation en R (avec création d'app R shiny), en SQL, en DAX et en Python.
 
 ## Projets scolaire
-- **R shiny app > Développement d'une application pour l'analyse des données criminelles à Los Angeles de 2020 à ce jour ainsi que des visualisations** :
-   [Crime in L.A.](https://github.com/QuentinData/Crimes_Los_Angeles)
-- **Projet SQL > pour apprendre SQL à un novice + utilisation de la fonction Trigger** :
+- **R shiny app** : Développement de l'application [Crime in L.A.](https://github.com/QuentinData/Crimes_Los_Angeles) pour l'analyse des données criminelles à Los Angeles
+
+- **Projet SQL** : pour apprendre SQL à un novice + utilisation de la fonction Trigger** :
    [Projet SQL](https://view.genial.ly/65607ac013dc120011ad03e1/presentation-presentation-projet-de-recherches)
-- **Projet 
+- **Projet Web en collaboration** : personalisation d'un site wweb existant en groupe de 3 avec l'utilisation de GitHub
 
 ## Me Contacter
 Vous pouvez me contacter à l'adresse : quentin.goumeziane@quentin-data.net ou [My Linkedin](https://www.linkedin.com/in/quentin-goumeziane/)
