@@ -1,3 +1,5 @@
+# English version
+
 # Welcom to my GitHub !
 
 ## My name is Quentin, i'm 27 years old and I am currently studying for a master's degree in artificial intelligence.
@@ -10,6 +12,8 @@ I'm currently working at Groupe Jimenez Transfert as a data analyst, Groupe Jime
 - updating dashboards
 
 At school, I learned programming in R, SQL and Python, I had the opportunity to carry out different projects in R, a project focused on film analysis and another on the analysis of crime Los Angeles.
+
+# Version française
 
 # Bienvenue sur mon GitHub !
 
@@ -29,7 +33,7 @@ Plus d'information sur l'entreprise [ici](https://www.jimenez-groupe.com/)
 
 ## Projets scolaire
 - **R shiny app > Développement d'une application pour l'analyse des données criminelles à Los Angeles de 2020 à ce jour ainsi que des visualisations** :
-   [GitHub](https://github.com/doriankari/RshinyApp.git)
+   [Crime in L.A.](https://github.com/QuentinData/Crimes_Los_Angeles)
 - **Projet SQL > pour apprendre SQL à un novice + utilisation de la fonction Trigger** :
    [Projet SQL](https://view.genial.ly/65607ac013dc120011ad03e1/presentation-presentation-projet-de-recherches)
 
