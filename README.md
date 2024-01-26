@@ -17,25 +17,30 @@ At school, I learned programming in R, SQL and Python, I had the opportunity to 
 
 # Bienvenue sur mon GitHub !
 
-## Je m'appelle Quentin, j'ai 27 ans et je suis actuellement en train de poursuivre un master en intelligence artificielle apres avoir obtenue une liscence en analyse de donnée, ma formation initial etant une formation de commerce.
+## Je m'appelle Quentin, j'ai 27 ans et je suis actuellement en train de poursuivre un master en intelligence artificielle en alternance apres avoir obtenue une liscence en analyse de donnée, ma formation initial etant une formation de commerce.
 
-Je travaille actuellement chez Groupe Jimenez Transfert en tant qu'analyste de données. Groupe Jimenez est une entreprise de transport basée à Toulouse spécialisée dans la traction de nuit. Mes principales missions concernent l'utilisation de Power BI, et comprennent :
+Je travaille actuellement au sein du Groupe Jimenez, une société de transport en tant qu'analyste de données. Le Groupe Jimenez est situé au nord de Toulouse. Il est spécialisée dans la traction mais à également des activité de déménagement et d'autres activité liées aux transport de marchandises. 
+
+Mes principales missions concernent l'utilisation de Power BI via :
 
 - La mise en place de flux de données
 - L'organisation de réunions pour établir des feuilles de route
+- La préparation et la consolidation des données
 - La création de tableaux de bord
 - La mise à jour des tableaux de bord
-- Des formations sur des logiciels d'analyse de donnée (Power BI)
+- Des entretiens de feedback des tableaux de bord
+- Des formations sur Power BI aux salariés
 
 Plus d'information sur l'entreprise [ici](https://www.jimenez-groupe.com/)
   
-À l'école, j'ai appris la programmation en R (avec création d'app R shiny), SQL et Python.
+À l'école, j'apprend la programmation en R (avec création d'app R shiny), en SQL, en DAX et en Python.
 
 ## Projets scolaire
 - **R shiny app > Développement d'une application pour l'analyse des données criminelles à Los Angeles de 2020 à ce jour ainsi que des visualisations** :
    [Crime in L.A.](https://github.com/QuentinData/Crimes_Los_Angeles)
 - **Projet SQL > pour apprendre SQL à un novice + utilisation de la fonction Trigger** :
    [Projet SQL](https://view.genial.ly/65607ac013dc120011ad03e1/presentation-presentation-projet-de-recherches)
+- **Projet 
 
 ## Me Contacter
 Vous pouvez me contacter à l'adresse : quentin.goumeziane@quentin-data.net ou [My Linkedin](https://www.linkedin.com/in/quentin-goumeziane/)
